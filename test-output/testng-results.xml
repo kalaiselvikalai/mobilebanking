@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-31T16:30:22 HST" name="Failed suite [inetbankingV1]" finished-at="2022-08-31T16:33:58 HST" duration-ms="215062">
+    <groups>
+    </groups>
+    <test started-at="2022-08-31T16:30:22 HST" name="BankingApp Test(failed)" finished-at="2022-08-31T16:33:58 HST" duration-ms="215062">
+      <class name="com.inetbanking.TestCases.TC_LoginDDT_002">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.inetbanking.TestCases.TC_LoginDDT_002@24105dc5]" started-at="2022-08-31T16:30:23 HST" name="setup" finished-at="2022-08-31T16:31:08 HST" duration-ms="44343" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginDDT(java.lang.String,java.lang.String)[pri:0, instance:com.inetbanking.TestCases.TC_LoginDDT_002@24105dc5]" started-at="2022-08-31T16:31:19 HST" name="loginDDT" data-provider="loginData" finished-at="2022-08-31T16:32:38 HST" duration-ms="78804" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr432678]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[UtabAry]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method signature="loginDDT(java.lang.String,java.lang.String)[pri:0, instance:com.inetbanking.TestCases.TC_LoginDDT_002@24105dc5]" started-at="2022-08-31T16:32:38 HST" name="loginDDT" data-provider="loginData" finished-at="2022-08-31T16:33:55 HST" duration-ms="77058" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr432678]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[UtabAry]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.inetbanking.TestCases.TC_LoginDDT_002@24105dc5]" started-at="2022-08-31T16:33:55 HST" name="teardown" finished-at="2022-08-31T16:33:58 HST" duration-ms="2638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.inetbanking.TestCases.TC_LoginDDT_002 -->
+    </test> <!-- BankingApp Test(failed) -->
+  </suite> <!-- Failed suite [inetbankingV1] -->
+</testng-results>

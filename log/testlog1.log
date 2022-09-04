@@ -1,0 +1,465 @@
+2022-08-28 20:42:05,512 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-08-28 21:08:51,044 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-08-28 21:41:40,981 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-08-28 21:44:33,817 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-08-28 21:58:19,777 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-08-28 22:00:41,061 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-08-28 23:44:24,498 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-08-29 00:05:44,237 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-08-29 00:05:48,191 [main] INFO com.inetbanking.TestCases.BaseClass - Entered username
+2022-08-29 00:05:48,583 [main] INFO com.inetbanking.TestCases.BaseClass - Entered Password
+2022-08-29 00:07:27,349 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-29 00:07:27,403 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-29 00:07:35,132 [main] INFO com.inetbanking.TestCases.BaseClass - Login passed
+2022-08-29 00:07:44,585 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-29 00:07:44,769 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-29 00:07:50,111 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-29 00:07:50,750 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-29 00:09:00,410 [main] INFO com.inetbanking.TestCases.BaseClass - Login passed
+2022-08-29 00:09:07,387 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-29 00:09:07,539 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-29 00:09:31,985 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-29 00:09:32,359 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-29 00:21:19,340 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-29 00:21:19,751 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-29 00:21:28,846 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-29 00:21:45,529 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-29 00:32:55,160 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-29 00:32:55,312 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-29 00:33:03,391 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-29 00:33:19,444 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-29 14:42:39,970 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-29 14:42:40,530 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-29 15:03:41,146 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-29 15:03:43,482 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-29 15:14:55,636 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-29 15:14:56,256 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-29 15:24:24,387 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-29 15:24:25,222 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-29 15:31:41,560 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-29 15:31:42,529 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-29 15:32:57,431 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-29 15:33:14,897 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-29 16:02:00,221 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-29 16:02:00,702 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-29 16:03:17,376 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-29 16:03:28,315 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-29 16:03:28,500 [main] INFO com.inetbanking.TestCases.BaseClass - test case failed....
+2022-08-29 16:13:00,143 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-29 16:13:00,601 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-29 16:15:19,396 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-29 16:15:20,110 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-29 16:16:37,937 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-29 16:16:49,703 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-29 16:26:09,878 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-29 16:26:10,654 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-29 16:26:27,864 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-29 16:26:38,938 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-29 16:34:11,839 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-29 16:34:13,182 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-29 16:35:33,883 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-29 16:40:31,298 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-29 16:40:31,567 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-29 16:40:46,711 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-29 16:50:31,880 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-29 16:50:32,466 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-29 16:50:53,509 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-29 17:16:06,066 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-29 17:16:06,703 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-29 17:17:44,088 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-29 17:32:28,212 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-29 17:32:33,211 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-29 17:34:19,439 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-29 17:34:53,817 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-29 17:48:57,476 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-29 17:48:58,120 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-29 17:50:16,815 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-29 17:50:31,106 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-29 18:41:15,176 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-29 18:41:15,980 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-29 23:13:45,700 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-29 23:13:46,129 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-29 23:15:18,176 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-29 23:15:32,771 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 13:50:43,604 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 13:50:43,900 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 13:51:59,364 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 13:52:08,719 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 13:55:44,216 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 13:55:44,740 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 13:55:55,917 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 13:56:05,223 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 13:58:25,981 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 13:58:26,500 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 13:59:41,678 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 13:59:55,252 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 13:59:55,291 [main] INFO com.inetbanking.TestCases.BaseClass - test case passed....
+2022-08-30 14:14:16,292 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 14:14:16,929 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 14:14:28,057 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 14:14:38,746 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 14:19:20,507 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 14:19:20,788 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 14:20:36,383 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 14:24:26,885 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 14:24:27,010 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 14:25:41,496 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 14:28:21,868 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 14:28:22,040 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 14:28:32,039 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 14:38:05,320 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 14:38:05,569 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 14:39:22,504 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 14:42:25,294 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 14:42:25,491 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 14:43:42,004 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 14:43:52,572 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 14:56:01,291 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 14:56:01,659 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 14:57:19,391 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 15:00:59,663 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 15:01:00,552 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 15:01:14,103 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 15:01:24,912 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 15:04:46,250 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 15:04:46,355 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 15:05:00,288 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 15:05:11,057 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 15:16:17,818 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 15:16:18,152 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 15:17:37,090 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 15:17:48,021 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 15:21:58,909 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 15:21:59,038 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 15:23:16,831 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 15:23:26,928 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 15:29:17,362 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 15:29:17,521 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 15:29:33,979 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 15:38:34,212 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 15:38:34,356 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 15:39:49,548 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 15:40:00,379 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 16:20:16,357 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 16:20:16,575 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 16:21:35,145 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 16:28:40,220 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 16:28:40,414 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 16:29:59,354 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 16:35:49,962 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 16:35:50,270 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 16:37:03,193 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 17:01:21,492 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 17:01:21,856 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 17:01:32,676 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 17:03:47,572 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 17:03:48,421 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 17:03:58,635 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 17:07:17,195 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 17:07:17,507 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 17:08:35,033 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 17:08:49,318 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 17:13:32,007 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 17:13:32,155 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 17:14:49,153 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 17:15:03,788 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 17:15:03,874 [main] INFO com.inetbanking.TestCases.BaseClass - test case failed....
+2022-08-30 17:17:06,796 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 17:17:07,011 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 17:17:19,875 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 17:17:33,762 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 17:17:33,799 [main] INFO com.inetbanking.TestCases.BaseClass - test case failed....
+2022-08-30 17:22:57,630 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 17:22:57,853 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 17:24:15,878 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 17:24:32,823 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 17:24:32,870 [main] INFO com.inetbanking.TestCases.BaseClass - test case failed....
+2022-08-30 17:28:27,171 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 17:28:27,347 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 17:29:46,244 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 17:29:59,282 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 17:29:59,320 [main] INFO com.inetbanking.TestCases.BaseClass - test case failed....
+2022-08-30 17:34:03,120 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 17:34:03,228 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 17:35:20,863 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 17:37:45,763 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 17:37:45,965 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 17:38:00,101 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 17:38:14,370 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 17:38:14,439 [main] INFO com.inetbanking.TestCases.BaseClass - test case failed....
+2022-08-30 17:41:19,354 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 17:41:19,598 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 17:42:37,087 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 17:42:51,555 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 17:42:51,620 [main] INFO com.inetbanking.TestCases.BaseClass - test case failed....
+2022-08-30 17:45:27,708 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 17:45:28,106 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 17:46:40,154 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 17:47:00,207 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 17:47:00,333 [main] INFO com.inetbanking.TestCases.BaseClass - test case passed....
+2022-08-30 17:53:04,669 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 17:53:04,848 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 17:54:22,447 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 17:54:43,173 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 17:54:43,981 [main] INFO com.inetbanking.TestCases.BaseClass - test case passed....
+2022-08-30 17:58:12,685 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 17:58:13,414 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 17:58:26,570 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 17:58:44,892 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 18:04:28,301 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 18:04:29,012 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 18:05:48,943 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 18:06:10,881 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 18:06:10,987 [main] INFO com.inetbanking.TestCases.BaseClass - test case passed....
+2022-08-30 18:11:57,940 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 18:11:58,260 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 18:13:19,573 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 18:13:44,354 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 18:13:44,479 [main] INFO com.inetbanking.TestCases.BaseClass - test case passed....
+2022-08-30 18:19:59,454 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 18:19:59,864 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 18:21:19,497 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 18:21:42,558 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 18:21:43,172 [main] INFO com.inetbanking.TestCases.BaseClass - test case passed....
+2022-08-30 18:55:32,445 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-08-30 18:55:35,879 [main] INFO com.inetbanking.TestCases.BaseClass - Entered username
+2022-08-30 18:55:36,103 [main] INFO com.inetbanking.TestCases.BaseClass - Entered Password
+2022-08-30 18:56:51,212 [main] INFO com.inetbanking.TestCases.BaseClass - Login test pass
+2022-08-30 19:00:32,660 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-30 19:00:33,113 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-30 19:00:49,249 [main] INFO com.inetbanking.TestCases.BaseClass - Login passed
+2022-08-30 19:01:14,205 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-30 19:01:14,418 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-30 19:01:21,429 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-30 19:01:21,760 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-30 19:02:35,625 [main] INFO com.inetbanking.TestCases.BaseClass - Login passed
+2022-08-30 19:02:43,437 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-30 19:02:43,712 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-30 19:07:08,905 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 19:07:27,442 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 19:20:25,168 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-08-30 19:20:40,635 [main] INFO com.inetbanking.TestCases.BaseClass - Entered username
+2022-08-30 19:20:42,945 [main] INFO com.inetbanking.TestCases.BaseClass - Entered Password
+2022-08-30 19:21:05,071 [main] INFO com.inetbanking.TestCases.BaseClass - Login test pass
+2022-08-30 19:22:22,183 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-30 19:22:22,374 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-30 19:22:35,160 [main] INFO com.inetbanking.TestCases.BaseClass - Login passed
+2022-08-30 19:22:46,365 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-30 19:22:47,223 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-30 19:22:55,610 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-30 19:22:58,954 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-30 19:24:18,443 [main] INFO com.inetbanking.TestCases.BaseClass - Login passed
+2022-08-30 19:24:28,133 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-30 19:24:28,452 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-30 19:33:40,951 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 19:33:42,207 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 19:35:14,345 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 19:43:15,379 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 19:43:16,990 [main] INFO com.inetbanking.TestCases.BaseClass - test case passed....
+2022-08-30 19:56:30,453 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-08-30 19:56:46,701 [main] INFO com.inetbanking.TestCases.BaseClass - Entered username
+2022-08-30 19:56:47,466 [main] INFO com.inetbanking.TestCases.BaseClass - Entered Password
+2022-08-30 19:57:09,539 [main] INFO com.inetbanking.TestCases.BaseClass - Login test pass
+2022-08-30 20:03:18,049 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-30 20:03:21,958 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-30 20:10:01,398 [main] INFO com.inetbanking.TestCases.BaseClass - Login passed
+2022-08-30 20:10:53,823 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-30 20:10:55,075 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-30 20:11:16,976 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-30 20:11:17,360 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-30 20:12:36,031 [main] INFO com.inetbanking.TestCases.BaseClass - Login passed
+2022-08-30 20:12:53,864 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-30 20:12:54,041 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-30 20:16:12,690 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-30 20:16:14,744 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-30 20:17:18,377 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-30 20:18:23,798 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-30 20:18:25,166 [main] INFO com.inetbanking.TestCases.BaseClass - test case passed....
+2022-08-31 16:31:20,625 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-31 16:31:20,759 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-31 16:32:32,164 [main] INFO com.inetbanking.TestCases.BaseClass - Login passed
+2022-08-31 16:32:40,164 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-31 16:32:40,280 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-31 16:33:50,467 [main] INFO com.inetbanking.TestCases.BaseClass - Login passed
+2022-08-31 17:37:06,911 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-31 17:37:07,180 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-31 17:42:46,810 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-31 17:42:46,876 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-31 17:42:59,059 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-31 17:43:22,132 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-31 17:45:17,758 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-08-31 17:45:18,446 [main] INFO com.inetbanking.TestCases.BaseClass - Entered username
+2022-08-31 17:45:18,555 [main] INFO com.inetbanking.TestCases.BaseClass - Entered Password
+2022-08-31 17:45:21,531 [main] INFO com.inetbanking.TestCases.BaseClass - Login test pass
+2022-08-31 17:46:49,392 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-31 17:46:49,464 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-31 17:46:56,872 [main] INFO com.inetbanking.TestCases.BaseClass - Login passed
+2022-08-31 17:47:04,118 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-31 17:47:04,237 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-31 17:48:13,541 [main] INFO com.inetbanking.TestCases.BaseClass - Login passed
+2022-08-31 17:48:20,156 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-31 17:48:20,304 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-31 17:49:29,520 [main] INFO com.inetbanking.TestCases.BaseClass - Login passed
+2022-08-31 17:49:36,500 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-31 17:49:36,659 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-31 17:49:41,462 [main] INFO com.inetbanking.TestCases.BaseClass - Login passed
+2022-08-31 17:50:03,838 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-31 17:50:05,233 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-31 17:51:20,780 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-31 17:51:32,967 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-31 17:51:33,076 [main] INFO com.inetbanking.TestCases.BaseClass - test case passed....
+2022-08-31 18:58:19,700 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-08-31 18:58:23,027 [main] INFO com.inetbanking.TestCases.BaseClass - Entered username
+2022-08-31 18:58:23,280 [main] INFO com.inetbanking.TestCases.BaseClass - Entered Password
+2022-08-31 18:58:28,328 [main] INFO com.inetbanking.TestCases.BaseClass - Login test pass
+2022-08-31 18:59:04,406 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-31 18:59:04,478 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-31 18:59:11,706 [main] INFO com.inetbanking.TestCases.BaseClass - Login passed
+2022-08-31 18:59:19,036 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-31 18:59:19,235 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-31 18:59:25,275 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-31 18:59:25,469 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-31 19:00:35,224 [main] INFO com.inetbanking.TestCases.BaseClass - Login passed
+2022-08-31 19:00:42,251 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-31 19:00:42,400 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-31 19:00:48,664 [main] INFO com.inetbanking.TestCases.BaseClass - Login passed
+2022-08-31 19:01:14,677 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-31 19:01:15,475 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-31 19:01:28,240 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-31 19:01:41,478 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-31 19:01:41,566 [main] INFO com.inetbanking.TestCases.BaseClass - test case passed....
+2022-08-31 19:11:18,843 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-08-31 19:11:20,237 [main] INFO com.inetbanking.TestCases.BaseClass - Entered username
+2022-08-31 19:11:20,383 [main] INFO com.inetbanking.TestCases.BaseClass - Entered Password
+2022-08-31 19:11:25,822 [main] INFO com.inetbanking.TestCases.BaseClass - Login test pass
+2022-08-31 19:11:51,004 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-31 19:11:51,096 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-31 19:11:58,273 [main] INFO com.inetbanking.TestCases.BaseClass - Login passed
+2022-08-31 19:12:05,989 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-31 19:12:06,267 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-31 19:12:12,102 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-31 19:12:12,257 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-31 19:13:21,574 [main] INFO com.inetbanking.TestCases.BaseClass - Login passed
+2022-08-31 19:13:28,594 [main] INFO com.inetbanking.TestCases.BaseClass - user name provided
+2022-08-31 19:13:28,762 [main] INFO com.inetbanking.TestCases.BaseClass - password provided
+2022-08-31 19:13:35,519 [main] INFO com.inetbanking.TestCases.BaseClass - Login passed
+2022-08-31 19:15:03,997 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-31 19:15:04,172 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-31 19:15:15,880 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-31 19:15:32,964 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-31 19:20:35,122 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-08-31 19:20:35,621 [main] INFO com.inetbanking.TestCases.BaseClass - Entered username
+2022-08-31 19:20:35,714 [main] INFO com.inetbanking.TestCases.BaseClass - Entered Password
+2022-08-31 19:21:43,378 [main] INFO com.inetbanking.TestCases.BaseClass - Login test pass
+2022-08-31 19:23:04,877 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-31 19:23:05,074 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-31 19:23:17,168 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-31 19:23:31,808 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-31 19:23:31,995 [main] INFO com.inetbanking.TestCases.BaseClass - test case passed....
+2022-08-31 20:21:32,786 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-08-31 20:21:34,957 [main] INFO com.inetbanking.TestCases.BaseClass - Entered username
+2022-08-31 20:21:35,105 [main] INFO com.inetbanking.TestCases.BaseClass - Entered Password
+2022-08-31 20:21:40,270 [main] INFO com.inetbanking.TestCases.BaseClass - Login test pass
+2022-08-31 20:22:05,625 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-31 20:22:05,832 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-31 20:28:42,863 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-08-31 20:28:43,763 [main] INFO com.inetbanking.TestCases.BaseClass - Entered username
+2022-08-31 20:28:43,886 [main] INFO com.inetbanking.TestCases.BaseClass - Entered Password
+2022-08-31 20:28:48,086 [main] INFO com.inetbanking.TestCases.BaseClass - Login test pass
+2022-08-31 20:30:13,130 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-31 20:30:13,240 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-31 20:31:28,495 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-31 20:31:38,711 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-31 20:36:31,406 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-08-31 20:36:31,859 [main] INFO com.inetbanking.TestCases.BaseClass - Entered username
+2022-08-31 20:36:31,925 [main] INFO com.inetbanking.TestCases.BaseClass - Entered Password
+2022-08-31 20:37:39,682 [main] INFO com.inetbanking.TestCases.BaseClass - Login test pass
+2022-08-31 20:39:02,480 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-31 20:39:02,577 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-31 20:40:16,979 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-31 20:40:28,578 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-31 20:40:28,679 [main] INFO com.inetbanking.TestCases.BaseClass - test case passed....
+2022-08-31 20:43:25,313 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-08-31 20:43:25,803 [main] INFO com.inetbanking.TestCases.BaseClass - Entered username
+2022-08-31 20:43:25,856 [main] INFO com.inetbanking.TestCases.BaseClass - Entered Password
+2022-08-31 20:44:33,358 [main] INFO com.inetbanking.TestCases.BaseClass - Login test pass
+2022-08-31 20:45:55,871 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-31 20:45:55,945 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-31 20:46:06,616 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-31 20:46:17,856 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-31 20:46:17,948 [main] INFO com.inetbanking.TestCases.BaseClass - test case passed....
+2022-08-31 21:00:24,001 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-08-31 21:00:24,833 [main] INFO com.inetbanking.TestCases.BaseClass - Entered username
+2022-08-31 21:00:25,022 [main] INFO com.inetbanking.TestCases.BaseClass - Entered Password
+2022-08-31 21:00:29,299 [main] INFO com.inetbanking.TestCases.BaseClass - Login test pass
+2022-08-31 21:00:48,057 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-31 21:00:48,274 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-31 21:00:58,090 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-31 21:01:07,305 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-31 21:06:46,345 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-08-31 21:06:47,304 [main] INFO com.inetbanking.TestCases.BaseClass - Entered username
+2022-08-31 21:06:47,435 [main] INFO com.inetbanking.TestCases.BaseClass - Entered Password
+2022-08-31 21:06:51,988 [main] INFO com.inetbanking.TestCases.BaseClass - Login test pass
+2022-08-31 21:07:09,210 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-08-31 21:07:09,420 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-08-31 21:07:19,786 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-08-31 21:07:31,088 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-08-31 21:07:31,204 [main] INFO com.inetbanking.TestCases.BaseClass - test case passed....
+2022-09-01 12:58:15,339 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-09-01 12:58:16,634 [main] INFO com.inetbanking.TestCases.BaseClass - Entered username
+2022-09-01 12:58:16,775 [main] INFO com.inetbanking.TestCases.BaseClass - Entered Password
+2022-09-01 12:59:25,326 [main] INFO com.inetbanking.TestCases.BaseClass - Login test pass
+2022-09-01 12:59:54,341 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-09-01 12:59:54,450 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-09-01 13:05:18,479 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-09-01 13:05:19,300 [main] INFO com.inetbanking.TestCases.BaseClass - Entered username
+2022-09-01 13:05:19,434 [main] INFO com.inetbanking.TestCases.BaseClass - Entered Password
+2022-09-01 13:06:27,008 [main] INFO com.inetbanking.TestCases.BaseClass - Login test pass
+2022-09-01 13:07:53,215 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-09-01 13:07:53,472 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-09-01 13:08:05,555 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-09-01 13:08:18,902 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-09-01 13:08:19,033 [main] INFO com.inetbanking.TestCases.BaseClass - test case passed....
+2022-09-01 13:14:09,531 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-09-01 13:14:12,868 [main] INFO com.inetbanking.TestCases.BaseClass - Entered username
+2022-09-01 13:14:13,154 [main] INFO com.inetbanking.TestCases.BaseClass - Entered Password
+2022-09-01 13:14:17,514 [main] INFO com.inetbanking.TestCases.BaseClass - Login test pass
+2022-09-01 13:15:44,687 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-09-01 13:15:44,884 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-09-01 13:17:00,703 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-09-01 13:17:10,952 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-09-01 13:18:15,782 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-09-01 13:18:16,959 [main] INFO com.inetbanking.TestCases.BaseClass - Entered username
+2022-09-01 13:18:18,123 [main] INFO com.inetbanking.TestCases.BaseClass - Entered Password
+2022-09-01 13:19:26,082 [main] INFO com.inetbanking.TestCases.BaseClass - Login test pass
+2022-09-01 13:20:52,428 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-09-01 13:20:52,584 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-09-01 13:21:04,255 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-09-01 13:21:16,817 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-09-01 13:21:16,958 [main] INFO com.inetbanking.TestCases.BaseClass - test case passed....
+2022-09-02 18:25:12,396 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-09-02 18:25:16,686 [main] INFO com.inetbanking.TestCases.BaseClass - Entered username
+2022-09-02 18:25:16,870 [main] INFO com.inetbanking.TestCases.BaseClass - Entered Password
+2022-09-02 18:25:21,904 [main] INFO com.inetbanking.TestCases.BaseClass - Login test pass
+2022-09-02 18:26:50,932 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-09-02 18:26:51,016 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-09-02 18:27:03,349 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-09-02 18:27:16,603 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-09-02 18:27:16,728 [main] INFO com.inetbanking.TestCases.BaseClass - test case passed....
+2022-09-02 23:31:34,262 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-09-02 23:31:35,186 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-09-03 11:17:27,601 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-09-03 11:17:33,793 [main] INFO com.inetbanking.TestCases.BaseClass - Entered username
+2022-09-03 11:17:34,701 [main] INFO com.inetbanking.TestCases.BaseClass - Entered Password
+2022-09-03 11:17:44,752 [main] INFO com.inetbanking.TestCases.BaseClass - Login test pass
+2022-09-03 11:18:13,528 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-09-03 11:18:14,148 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-09-03 11:20:27,317 [main] INFO com.inetbanking.TestCases.BaseClass - URL is open
+2022-09-03 11:20:29,375 [main] INFO com.inetbanking.TestCases.BaseClass - Entered username
+2022-09-03 11:20:30,083 [main] INFO com.inetbanking.TestCases.BaseClass - Entered Password
+2022-09-03 11:20:34,587 [main] INFO com.inetbanking.TestCases.BaseClass - Login test pass
+2022-09-03 11:20:55,021 [main] INFO com.inetbanking.TestCases.BaseClass - User name is provided
+2022-09-03 11:20:55,121 [main] INFO com.inetbanking.TestCases.BaseClass - Passsword is provided
+2022-09-03 11:21:07,652 [main] INFO com.inetbanking.TestCases.BaseClass - providing customer details....
+2022-09-03 11:21:21,097 [main] INFO com.inetbanking.TestCases.BaseClass - validation started....
+2022-09-03 11:21:21,412 [main] INFO com.inetbanking.TestCases.BaseClass - test case passed....
