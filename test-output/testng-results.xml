@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="0" failed="0" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-31T16:30:22 HST" name="Failed suite [inetbankingV1]" finished-at="2022-08-31T16:33:58 HST" duration-ms="215062">
+  <suite started-at="2022-09-28T14:00:20 HST" name="inetbankingV1" finished-at="2022-09-28T14:00:21 HST" duration-ms="1397">
     <groups>
     </groups>
-    <test started-at="2022-08-31T16:30:22 HST" name="BankingApp Test(failed)" finished-at="2022-08-31T16:33:58 HST" duration-ms="215062">
-      <class name="com.inetbanking.TestCases.TC_LoginDDT_002">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.inetbanking.TestCases.TC_LoginDDT_002@24105dc5]" started-at="2022-08-31T16:30:23 HST" name="setup" finished-at="2022-08-31T16:31:08 HST" duration-ms="44343" status="PASS">
+    <test started-at="2022-09-28T14:00:20 HST" name="BankingApp Test" finished-at="2022-09-28T14:00:21 HST" duration-ms="1397">
+      <class name="com.inetbanking.TestCases.TC_NewAccountTest_005">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.inetbanking.TestCases.TC_NewAccountTest_005@2fb0623e]" started-at="2022-09-28T14:00:21 HST" name="setup" finished-at="2022-09-28T14:00:21 HST" duration-ms="32" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -15,46 +15,110 @@
               </value>
             </param>
           </params>
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+Type mismatch: cannot convert from ChromeDriver to String
+Type mismatch: cannot convert from FirefoxDriver to String
+Type mismatch: cannot convert from InternetExplorerDriver to String
+The method manage() is undefined for the type String
+The method get(String) is undefined for the type String
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+Type mismatch: cannot convert from ChromeDriver to String
+Type mismatch: cannot convert from FirefoxDriver to String
+Type mismatch: cannot convert from InternetExplorerDriver to String
+The method manage() is undefined for the type String
+The method get(String) is undefined for the type String
+
+at com.inetbanking.TestCases.BaseClass.setup(BaseClass.java:53)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:176)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:122)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginDDT(java.lang.String,java.lang.String)[pri:0, instance:com.inetbanking.TestCases.TC_LoginDDT_002@24105dc5]" started-at="2022-08-31T16:31:19 HST" name="loginDDT" data-provider="loginData" finished-at="2022-08-31T16:32:38 HST" duration-ms="78804" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[mngr432678]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[UtabAry]]>
-              </value>
-            </param>
-          </params>
+        <test-method signature="CreateNewAccount()[pri:0, instance:com.inetbanking.TestCases.TC_NewAccountTest_005@2fb0623e]" started-at="2022-09-28T14:00:21 HST" name="CreateNewAccount" finished-at="2022-09-28T14:00:21 HST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+Type mismatch: cannot convert from ChromeDriver to String
+Type mismatch: cannot convert from FirefoxDriver to String
+Type mismatch: cannot convert from InternetExplorerDriver to String
+The method manage() is undefined for the type String
+The method get(String) is undefined for the type String
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+Type mismatch: cannot convert from ChromeDriver to String
+Type mismatch: cannot convert from FirefoxDriver to String
+Type mismatch: cannot convert from InternetExplorerDriver to String
+The method manage() is undefined for the type String
+The method get(String) is undefined for the type String
+
+at com.inetbanking.TestCases.BaseClass.setup(BaseClass.java:53)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:176)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:122)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginDDT -->
-        <test-method signature="loginDDT(java.lang.String,java.lang.String)[pri:0, instance:com.inetbanking.TestCases.TC_LoginDDT_002@24105dc5]" started-at="2022-08-31T16:32:38 HST" name="loginDDT" data-provider="loginData" finished-at="2022-08-31T16:33:55 HST" duration-ms="77058" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[mngr432678]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[UtabAry]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginDDT -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.inetbanking.TestCases.TC_LoginDDT_002@24105dc5]" started-at="2022-08-31T16:33:55 HST" name="teardown" finished-at="2022-08-31T16:33:58 HST" duration-ms="2638" status="PASS">
+        </test-method> <!-- CreateNewAccount -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.inetbanking.TestCases.TC_NewAccountTest_005@2fb0623e]" started-at="2022-09-28T14:00:21 HST" name="teardown" finished-at="1969-12-31T14:00:00 HST" duration-ms="-1664409621740" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- com.inetbanking.TestCases.TC_LoginDDT_002 -->
-    </test> <!-- BankingApp Test(failed) -->
-  </suite> <!-- Failed suite [inetbankingV1] -->
+      </class> <!-- com.inetbanking.TestCases.TC_NewAccountTest_005 -->
+    </test> <!-- BankingApp Test -->
+  </suite> <!-- inetbankingV1 -->
 </testng-results>

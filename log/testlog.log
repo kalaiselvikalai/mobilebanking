@@ -463,3 +463,368 @@
 2022-09-03 11:21:07,652 - com.inetbanking.TestCases.BaseClass -INFO - providing customer details....
 2022-09-03 11:21:21,097 - com.inetbanking.TestCases.BaseClass -INFO - validation started....
 2022-09-03 11:21:21,412 - com.inetbanking.TestCases.BaseClass -INFO - test case passed....
+2022-09-03 17:52:25,858 - com.inetbanking.TestCases.BaseClass -INFO - URL is open
+2022-09-03 17:52:28,059 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-03 17:52:28,363 - com.inetbanking.TestCases.BaseClass -INFO - Entered Password
+2022-09-03 17:52:34,756 - com.inetbanking.TestCases.BaseClass -INFO - Login test pass
+2022-09-03 17:52:56,217 - com.inetbanking.TestCases.BaseClass -INFO - User name is provided
+2022-09-03 17:52:56,323 - com.inetbanking.TestCases.BaseClass -INFO - Passsword is provided
+2022-09-03 17:53:09,594 - com.inetbanking.TestCases.BaseClass -INFO - providing customer details....
+2022-09-03 17:53:20,690 - com.inetbanking.TestCases.BaseClass -INFO - validation started....
+2022-09-03 18:00:12,048 - com.inetbanking.TestCases.BaseClass -INFO - URL is open
+2022-09-03 18:00:13,013 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-03 18:00:13,756 - com.inetbanking.TestCases.BaseClass -INFO - Entered Password
+2022-09-03 18:00:17,817 - com.inetbanking.TestCases.BaseClass -INFO - Login test pass
+2022-09-03 18:00:35,629 - com.inetbanking.TestCases.BaseClass -INFO - User name is provided
+2022-09-03 18:00:35,777 - com.inetbanking.TestCases.BaseClass -INFO - Passsword is provided
+2022-09-03 18:00:47,097 - com.inetbanking.TestCases.BaseClass -INFO - providing customer details....
+2022-09-03 18:01:00,305 - com.inetbanking.TestCases.BaseClass -INFO - validation started....
+2022-09-03 18:01:00,436 - com.inetbanking.TestCases.BaseClass -INFO - test case passed....
+2022-09-05 15:57:16,038 - com.inetbanking.TestCases.BaseClass -INFO - URL is open
+2022-09-05 15:57:20,949 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-05 15:57:21,274 - com.inetbanking.TestCases.BaseClass -INFO - Entered Password
+2022-09-05 15:57:27,414 - com.inetbanking.TestCases.BaseClass -INFO - Login test pass
+2022-09-05 15:57:47,137 - com.inetbanking.TestCases.BaseClass -INFO - User name is provided
+2022-09-05 15:57:47,429 - com.inetbanking.TestCases.BaseClass -INFO - Passsword is provided
+2022-09-05 15:58:11,997 - com.inetbanking.TestCases.BaseClass -INFO - providing customer details....
+2022-09-05 15:58:32,749 - com.inetbanking.TestCases.BaseClass -INFO - validation started....
+2022-09-05 15:58:32,973 - com.inetbanking.TestCases.BaseClass -INFO - test case failed....
+2022-09-05 16:03:01,941 - com.inetbanking.TestCases.BaseClass -INFO - URL is open
+2022-09-05 16:03:03,018 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-05 16:03:03,588 - com.inetbanking.TestCases.BaseClass -INFO - Entered Password
+2022-09-05 16:03:30,831 - com.inetbanking.TestCases.BaseClass -INFO - Login test pass
+2022-09-05 16:03:43,847 - com.inetbanking.TestCases.BaseClass -INFO - User name is provided
+2022-09-05 16:03:44,328 - com.inetbanking.TestCases.BaseClass -INFO - Passsword is provided
+2022-09-05 16:04:14,591 - com.inetbanking.TestCases.BaseClass -INFO - providing customer details....
+2022-09-05 16:04:24,966 - com.inetbanking.TestCases.BaseClass -INFO - validation started....
+2022-09-05 16:04:25,043 - com.inetbanking.TestCases.BaseClass -INFO - test case failed....
+2022-09-05 16:09:03,129 - com.inetbanking.TestCases.BaseClass -INFO - URL is open
+2022-09-05 16:09:06,653 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-05 16:09:06,832 - com.inetbanking.TestCases.BaseClass -INFO - Entered Password
+2022-09-05 16:10:17,109 - com.inetbanking.TestCases.BaseClass -INFO - Login test pass
+2022-09-05 16:10:43,205 - com.inetbanking.TestCases.BaseClass -INFO - User name is provided
+2022-09-05 16:10:43,308 - com.inetbanking.TestCases.BaseClass -INFO - Passsword is provided
+2022-09-05 16:39:07,849 - com.inetbanking.TestCases.BaseClass -INFO - URL is open
+2022-09-05 16:39:10,123 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-05 16:39:13,396 - com.inetbanking.TestCases.BaseClass -INFO - Entered Password
+2022-09-05 16:39:21,217 - com.inetbanking.TestCases.BaseClass -INFO - Login test pass
+2022-09-05 16:41:17,909 - com.inetbanking.TestCases.BaseClass -INFO - User name is provided
+2022-09-05 16:41:18,182 - com.inetbanking.TestCases.BaseClass -INFO - Passsword is provided
+2022-09-05 16:42:35,402 - com.inetbanking.TestCases.BaseClass -INFO - providing customer details....
+2022-09-05 16:43:01,567 - com.inetbanking.TestCases.BaseClass -INFO - validation started....
+2022-09-05 16:43:01,692 - com.inetbanking.TestCases.BaseClass -INFO - test case passed....
+2022-09-05 17:13:07,756 - com.inetbanking.TestCases.BaseClass -INFO - URL is open
+2022-09-05 17:13:10,211 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-05 17:13:10,450 - com.inetbanking.TestCases.BaseClass -INFO - Entered Password
+2022-09-05 17:14:20,536 - com.inetbanking.TestCases.BaseClass -INFO - Login test pass
+2022-09-05 17:15:47,893 - com.inetbanking.TestCases.BaseClass -INFO - User name is provided
+2022-09-05 17:15:48,023 - com.inetbanking.TestCases.BaseClass -INFO - Passsword is provided
+2022-09-05 17:16:05,068 - com.inetbanking.TestCases.BaseClass -INFO - providing customer details....
+2022-09-05 17:16:21,238 - com.inetbanking.TestCases.BaseClass -INFO - validation started....
+2022-09-05 17:16:21,404 - com.inetbanking.TestCases.BaseClass -INFO - test case passed....
+2022-09-05 21:05:12,078 - com.inetbanking.TestCases.BaseClass -INFO - URL is open
+2022-09-05 21:05:14,946 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-05 21:05:15,500 - com.inetbanking.TestCases.BaseClass -INFO - Entered Password
+2022-09-05 21:06:24,267 - com.inetbanking.TestCases.BaseClass -INFO - Login test pass
+2022-09-05 21:08:45,659 - com.inetbanking.TestCases.BaseClass -INFO - User name is provided
+2022-09-05 21:08:45,783 - com.inetbanking.TestCases.BaseClass -INFO - Passsword is provided
+2022-09-05 21:14:50,305 - com.inetbanking.TestCases.BaseClass -INFO - URL is open
+2022-09-05 21:14:54,900 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-05 21:14:55,791 - com.inetbanking.TestCases.BaseClass -INFO - Entered Password
+2022-09-05 21:16:05,419 - com.inetbanking.TestCases.BaseClass -INFO - Login test pass
+2022-09-05 21:17:36,495 - com.inetbanking.TestCases.BaseClass -INFO - User name is provided
+2022-09-05 21:17:36,673 - com.inetbanking.TestCases.BaseClass -INFO - Passsword is provided
+2022-09-05 21:25:43,524 - com.inetbanking.TestCases.BaseClass -INFO - URL is open
+2022-09-05 21:25:45,330 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-05 21:25:45,459 - com.inetbanking.TestCases.BaseClass -INFO - Entered Password
+2022-09-05 21:26:53,837 - com.inetbanking.TestCases.BaseClass -INFO - Login test pass
+2022-09-05 21:28:42,849 - com.inetbanking.TestCases.BaseClass -INFO - User name is provided
+2022-09-05 21:28:42,950 - com.inetbanking.TestCases.BaseClass -INFO - Passsword is provided
+2022-09-05 21:30:00,458 - com.inetbanking.TestCases.BaseClass -INFO - providing customer details....
+2022-09-05 21:30:13,088 - com.inetbanking.TestCases.BaseClass -INFO - validation started....
+2022-09-05 21:32:18,691 - com.inetbanking.TestCases.BaseClass -INFO - URL is open
+2022-09-05 21:32:19,572 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-05 21:32:20,160 - com.inetbanking.TestCases.BaseClass -INFO - Entered Password
+2022-09-05 21:32:26,111 - com.inetbanking.TestCases.BaseClass -INFO - Login test pass
+2022-09-05 21:34:14,405 - com.inetbanking.TestCases.BaseClass -INFO - User name is provided
+2022-09-05 21:34:14,577 - com.inetbanking.TestCases.BaseClass -INFO - Passsword is provided
+2022-09-05 21:35:31,742 - com.inetbanking.TestCases.BaseClass -INFO - providing customer details....
+2022-09-05 21:35:45,374 - com.inetbanking.TestCases.BaseClass -INFO - validation started....
+2022-09-05 21:35:45,549 - com.inetbanking.TestCases.BaseClass -INFO - test case passed....
+2022-09-05 21:43:43,797 - com.inetbanking.TestCases.BaseClass -INFO - URL is open
+2022-09-05 21:43:45,784 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-05 21:43:46,332 - com.inetbanking.TestCases.BaseClass -INFO - Entered Password
+2022-09-05 21:44:56,031 - com.inetbanking.TestCases.BaseClass -INFO - Login test pass
+2022-09-05 21:45:15,518 - com.inetbanking.TestCases.BaseClass -INFO - User name is provided
+2022-09-05 21:45:15,609 - com.inetbanking.TestCases.BaseClass -INFO - Passsword is provided
+2022-09-05 22:16:26,000 - com.inetbanking.TestCases.BaseClass -INFO - URL is open
+2022-09-05 22:16:32,331 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-05 22:16:32,747 - com.inetbanking.TestCases.BaseClass -INFO - Entered Password
+2022-09-05 22:16:41,924 - com.inetbanking.TestCases.BaseClass -INFO - Login test pass
+2022-09-05 22:26:05,143 - com.inetbanking.TestCases.BaseClass -INFO - URL is open
+2022-09-05 22:26:10,176 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-05 22:26:10,731 - com.inetbanking.TestCases.BaseClass -INFO - Entered Password
+2022-09-05 22:27:20,193 - com.inetbanking.TestCases.BaseClass -INFO - Login test pass
+2022-09-05 22:52:14,022 - com.inetbanking.TestCases.BaseClass -INFO - URL is open
+2022-09-05 22:52:20,179 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-05 22:52:21,514 - com.inetbanking.TestCases.BaseClass -INFO - Entered Password
+2022-09-05 22:53:31,677 - com.inetbanking.TestCases.BaseClass -INFO - Login test pass
+2022-09-06 13:22:19,669 - com.inetbanking.TestCases.BaseClass -INFO - URL is open
+2022-09-06 13:22:22,688 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-06 13:22:22,981 - com.inetbanking.TestCases.BaseClass -INFO - Entered Password
+2022-09-06 13:23:32,349 - com.inetbanking.TestCases.BaseClass -INFO - Login test pass
+2022-09-06 13:34:37,143 - com.inetbanking.TestCases.BaseClass -INFO - URL is open
+2022-09-06 13:34:39,446 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-06 13:34:39,667 - com.inetbanking.TestCases.BaseClass -INFO - Entered Password
+2022-09-06 13:34:45,651 - com.inetbanking.TestCases.BaseClass -INFO - Login test pass
+2022-09-06 16:40:39,880 - com.inetbanking.TestCases.BaseClass -INFO - URL is open
+2022-09-06 16:40:42,054 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-06 16:40:42,211 - com.inetbanking.TestCases.BaseClass -INFO - Entered Password
+2022-09-06 16:40:47,907 - com.inetbanking.TestCases.BaseClass -INFO - Login test pass
+2022-09-27 12:58:20,334 - com.inetbanking.TestCases.BaseClass -INFO - URL is open
+2022-09-27 12:58:29,834 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 12:58:32,890 - com.inetbanking.TestCases.BaseClass -INFO - Entered Password
+2022-09-27 13:03:41,845 - com.inetbanking.TestCases.BaseClass -INFO - URL is open
+2022-09-27 13:03:58,094 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 13:03:58,334 - com.inetbanking.TestCases.BaseClass -INFO - Entered Password
+2022-09-27 13:04:10,142 - com.inetbanking.TestCases.BaseClass -INFO - Login test pass
+2022-09-27 13:07:34,154 - com.inetbanking.TestCases.BaseClass -INFO - User name is provided
+2022-09-27 13:07:34,779 - com.inetbanking.TestCases.BaseClass -INFO - Passsword is provided
+2022-09-27 13:07:58,482 - com.inetbanking.TestCases.BaseClass -INFO - providing customer details....
+2022-09-27 13:08:16,575 - com.inetbanking.TestCases.BaseClass -INFO - validation started....
+2022-09-27 13:08:16,973 - com.inetbanking.TestCases.BaseClass -INFO - test case passed....
+2022-09-27 13:34:44,705 - com.inetbanking.TestCases.BaseClass -INFO - User name is provided
+2022-09-27 13:34:45,860 - com.inetbanking.TestCases.BaseClass -INFO - Passsword is provided
+2022-09-27 13:35:00,231 - com.inetbanking.TestCases.BaseClass -INFO - providing customer details....
+2022-09-27 13:35:15,727 - com.inetbanking.TestCases.BaseClass -INFO - validation started....
+2022-09-27 14:38:07,156 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 14:38:07,321 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 14:38:12,782 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 14:38:13,555 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 14:43:46,888 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 14:43:47,501 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 14:43:56,777 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 14:43:57,461 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 14:56:01,309 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 14:56:02,059 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 14:56:08,640 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 14:56:09,309 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 14:56:13,914 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 14:56:14,088 - com.inetbanking.TestCases.BaseClass -INFO - Enerted customerID
+2022-09-27 15:02:19,897 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 15:02:21,336 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 15:02:27,225 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 15:02:27,888 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 15:02:34,242 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 15:02:34,380 - com.inetbanking.TestCases.BaseClass -INFO - Enerted customerID
+2022-09-27 15:11:57,706 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 15:11:59,140 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 15:12:04,223 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 15:12:04,790 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 15:12:10,612 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 15:12:15,683 - com.inetbanking.TestCases.BaseClass -INFO - Enerted customerID
+2022-09-27 15:12:22,106 - com.inetbanking.TestCases.BaseClass -INFO - Sumited
+2022-09-27 16:08:42,491 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 16:08:43,812 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 16:08:52,641 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 16:08:53,476 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 16:08:59,380 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 16:09:04,488 - com.inetbanking.TestCases.BaseClass -INFO - Enerted customerID
+2022-09-27 16:09:09,722 - com.inetbanking.TestCases.BaseClass -INFO - Sumited
+2022-09-27 16:18:59,799 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 16:19:01,233 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 16:19:06,191 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 16:19:06,728 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 16:19:12,091 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 16:19:17,170 - com.inetbanking.TestCases.BaseClass -INFO - Enerted customerID
+2022-09-27 16:19:22,241 - com.inetbanking.TestCases.BaseClass -INFO - Sumited
+2022-09-27 16:22:58,022 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 16:22:58,336 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 16:23:02,483 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 16:23:02,858 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 16:23:08,559 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 16:23:13,635 - com.inetbanking.TestCases.BaseClass -INFO - Enerted customerID
+2022-09-27 16:23:22,344 - com.inetbanking.TestCases.BaseClass -INFO - Sumited
+2022-09-27 16:23:27,489 - com.inetbanking.TestCases.BaseClass -INFO - edited city
+2022-09-27 16:23:29,147 - com.inetbanking.TestCases.BaseClass -INFO - final sumit
+2022-09-27 16:27:09,382 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 16:27:09,797 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 16:27:13,841 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 16:27:14,246 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 16:27:19,879 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 16:27:24,951 - com.inetbanking.TestCases.BaseClass -INFO - Enerted customerID
+2022-09-27 16:27:33,496 - com.inetbanking.TestCases.BaseClass -INFO - Sumited
+2022-09-27 16:27:38,753 - com.inetbanking.TestCases.BaseClass -INFO - edited city
+2022-09-27 16:27:40,329 - com.inetbanking.TestCases.BaseClass -INFO - final sumit
+2022-09-27 16:33:56,699 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 16:33:56,961 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 16:34:01,238 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 16:34:06,751 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 16:35:41,027 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 16:35:41,698 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 16:35:46,167 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 16:35:50,090 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 16:38:38,042 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 16:38:38,422 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 16:38:43,770 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 16:38:49,075 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 16:38:54,213 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 16:38:59,303 - com.inetbanking.TestCases.BaseClass -INFO - Enerted customerID
+2022-09-27 16:39:07,959 - com.inetbanking.TestCases.BaseClass -INFO - Sumited
+2022-09-27 16:39:13,102 - com.inetbanking.TestCases.BaseClass -INFO - edited city
+2022-09-27 16:39:15,133 - com.inetbanking.TestCases.BaseClass -INFO - final sumit
+2022-09-27 17:35:51,608 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 17:35:52,140 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 17:35:59,398 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 17:36:04,807 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 17:36:10,184 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 17:36:15,290 - com.inetbanking.TestCases.BaseClass -INFO - Enerted customerID
+2022-09-27 17:36:24,241 - com.inetbanking.TestCases.BaseClass -INFO - Sumited
+2022-09-27 17:36:29,554 - com.inetbanking.TestCases.BaseClass -INFO - edited city
+2022-09-27 17:36:31,322 - com.inetbanking.TestCases.BaseClass -INFO - final sumit
+2022-09-27 17:40:45,695 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 17:40:46,068 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 17:40:51,164 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 17:40:56,286 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 17:41:01,486 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 17:41:06,567 - com.inetbanking.TestCases.BaseClass -INFO - Enerted customerID
+2022-09-27 17:41:15,142 - com.inetbanking.TestCases.BaseClass -INFO - Sumited
+2022-09-27 17:41:20,267 - com.inetbanking.TestCases.BaseClass -INFO - edited city
+2022-09-27 17:41:21,735 - com.inetbanking.TestCases.BaseClass -INFO - final sumit
+2022-09-27 17:41:22,009 - com.inetbanking.TestCases.BaseClass -INFO - editCustomer test fail
+2022-09-27 17:45:19,153 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 17:45:19,450 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 17:45:23,113 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 17:45:28,245 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 17:45:33,904 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 17:45:38,977 - com.inetbanking.TestCases.BaseClass -INFO - Enerted customerID
+2022-09-27 17:45:47,014 - com.inetbanking.TestCases.BaseClass -INFO - Sumited
+2022-09-27 17:45:52,131 - com.inetbanking.TestCases.BaseClass -INFO - edited city
+2022-09-27 17:45:53,508 - com.inetbanking.TestCases.BaseClass -INFO - final sumit
+2022-09-27 17:45:53,846 - com.inetbanking.TestCases.BaseClass -INFO - editCustomer test fail
+2022-09-27 17:47:52,266 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 17:47:52,424 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 17:47:56,182 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 17:48:01,314 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 17:48:06,803 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 17:48:11,871 - com.inetbanking.TestCases.BaseClass -INFO - Enerted customerID
+2022-09-27 17:48:20,081 - com.inetbanking.TestCases.BaseClass -INFO - Sumited
+2022-09-27 17:48:25,189 - com.inetbanking.TestCases.BaseClass -INFO - edited city
+2022-09-27 17:48:26,548 - com.inetbanking.TestCases.BaseClass -INFO - final sumit
+2022-09-27 17:48:26,922 - com.inetbanking.TestCases.BaseClass -INFO - editCustomer test fail
+2022-09-27 17:50:23,207 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 17:50:23,494 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 17:50:28,226 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 17:50:33,396 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 17:50:38,756 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 17:50:43,829 - com.inetbanking.TestCases.BaseClass -INFO - Enerted customerID
+2022-09-27 17:50:51,969 - com.inetbanking.TestCases.BaseClass -INFO - Sumited
+2022-09-27 17:50:57,071 - com.inetbanking.TestCases.BaseClass -INFO - edited city
+2022-09-27 17:50:58,356 - com.inetbanking.TestCases.BaseClass -INFO - final sumit
+2022-09-27 17:50:58,689 - com.inetbanking.TestCases.BaseClass -INFO - editCustomer test fail
+2022-09-27 17:52:19,932 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 17:52:20,087 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 17:52:24,043 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 17:52:29,182 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 17:52:34,449 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 17:52:39,515 - com.inetbanking.TestCases.BaseClass -INFO - Enerted customerID
+2022-09-27 17:52:47,666 - com.inetbanking.TestCases.BaseClass -INFO - Sumited
+2022-09-27 17:52:52,774 - com.inetbanking.TestCases.BaseClass -INFO - edited city
+2022-09-27 17:52:54,154 - com.inetbanking.TestCases.BaseClass -INFO - final sumit
+2022-09-27 17:52:54,460 - com.inetbanking.TestCases.BaseClass -INFO - editCustomer test fail
+2022-09-27 18:00:27,646 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 18:00:29,031 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 18:00:35,483 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 18:00:40,623 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 18:00:46,370 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 18:00:51,454 - com.inetbanking.TestCases.BaseClass -INFO - Enerted customerID
+2022-09-27 18:01:00,022 - com.inetbanking.TestCases.BaseClass -INFO - Sumited
+2022-09-27 18:01:05,327 - com.inetbanking.TestCases.BaseClass -INFO - edited city
+2022-09-27 18:01:07,203 - com.inetbanking.TestCases.BaseClass -INFO - final sumit
+2022-09-27 18:04:21,117 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 18:04:22,288 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 18:04:27,547 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 18:04:32,676 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 18:04:38,560 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 18:04:43,633 - com.inetbanking.TestCases.BaseClass -INFO - Enerted customerID
+2022-09-27 18:04:52,059 - com.inetbanking.TestCases.BaseClass -INFO - Sumited
+2022-09-27 18:04:57,170 - com.inetbanking.TestCases.BaseClass -INFO - edited city
+2022-09-27 18:04:58,952 - com.inetbanking.TestCases.BaseClass -INFO - final sumit
+2022-09-27 18:09:41,541 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 18:09:41,686 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 18:09:46,381 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 18:09:51,680 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 18:09:57,223 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 18:10:02,290 - com.inetbanking.TestCases.BaseClass -INFO - Enerted customerID
+2022-09-27 18:10:14,215 - com.inetbanking.TestCases.BaseClass -INFO - Sumited
+2022-09-27 18:10:19,420 - com.inetbanking.TestCases.BaseClass -INFO - edited city
+2022-09-27 18:10:21,008 - com.inetbanking.TestCases.BaseClass -INFO - final sumit
+2022-09-27 18:10:21,171 - com.inetbanking.TestCases.BaseClass -INFO - editCustomer test pass
+2022-09-27 19:10:36,142 - com.inetbanking.TestCases.BaseClass -INFO - URL lanuched
+2022-09-27 19:10:38,676 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 19:10:39,249 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 19:10:44,079 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 19:10:44,144 - com.inetbanking.TestCases.BaseClass -INFO - Creating new Account Details Providing......
+2022-09-27 19:16:38,728 - com.inetbanking.TestCases.BaseClass -INFO - URL lanuched
+2022-09-27 19:16:43,702 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 19:16:44,594 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 19:16:50,912 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 19:16:50,931 - com.inetbanking.TestCases.BaseClass -INFO - Creating new Account Details Providing......
+2022-09-27 19:19:17,078 - com.inetbanking.TestCases.BaseClass -INFO - URL lanuched
+2022-09-27 19:19:18,570 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 19:19:19,346 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 19:19:23,727 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 19:19:30,653 - com.inetbanking.TestCases.BaseClass -INFO - Creating new Account Details Providing......
+2022-09-27 19:21:57,098 - com.inetbanking.TestCases.BaseClass -INFO - URL lanuched
+2022-09-27 19:22:00,462 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 19:22:00,838 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 19:22:05,942 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 19:22:11,294 - com.inetbanking.TestCases.BaseClass -INFO - Creating new Account Details Providing......
+2022-09-27 19:22:16,767 - com.inetbanking.TestCases.BaseClass -INFO - CreateNewAccount Test is passed
+2022-09-27 19:27:26,497 - com.inetbanking.TestCases.BaseClass -INFO - URL lanuched
+2022-09-27 19:27:28,502 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 19:27:29,436 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 19:27:33,466 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 19:27:46,805 - com.inetbanking.TestCases.BaseClass -INFO - Creating new Account Details Providing......
+2022-09-27 19:27:53,723 - com.inetbanking.TestCases.BaseClass -INFO - CreateNewAccount Test is passed
+2022-09-27 19:36:33,952 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 19:36:35,345 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 19:37:05,447 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 19:37:11,642 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-27 19:40:37,373 - com.inetbanking.TestCases.BaseClass -INFO - URL lanuched
+2022-09-27 19:41:10,084 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 19:41:16,542 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 19:41:56,726 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 19:43:46,884 - com.inetbanking.TestCases.BaseClass -INFO - Creating new Account Details Providing......
+2022-09-27 19:49:38,825 - com.inetbanking.TestCases.BaseClass -INFO - URL lanuched
+2022-09-27 19:50:05,588 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 19:50:06,073 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 19:50:23,709 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 19:50:36,139 - com.inetbanking.TestCases.BaseClass -INFO - Creating new Account Details Providing......
+2022-09-27 20:05:45,391 - com.inetbanking.TestCases.BaseClass -INFO - URL lanuched
+2022-09-27 20:05:56,585 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 20:05:56,725 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 20:06:02,958 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 20:06:11,437 - com.inetbanking.TestCases.BaseClass -INFO - Creating new Account Details Providing......
+2022-09-27 20:09:24,085 - com.inetbanking.TestCases.BaseClass -INFO - URL lanuched
+2022-09-27 20:09:29,399 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 20:09:29,721 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 20:09:34,354 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 20:09:45,749 - com.inetbanking.TestCases.BaseClass -INFO - Creating new Account Details Providing......
+2022-09-27 20:09:55,590 - com.inetbanking.TestCases.BaseClass -INFO - CreateNewAccount Test is passed
+2022-09-27 20:14:34,690 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-27 20:14:35,079 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-27 20:14:41,380 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-27 20:14:47,075 - com.inetbanking.TestCases.BaseClass -INFO - clicked editcustomer
+2022-09-28 13:40:35,661 - com.inetbanking.TestCases.BaseClass -INFO - URL lanuched
+2022-09-28 13:40:39,545 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-28 13:40:40,502 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-28 13:40:44,777 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-28 13:40:47,034 - com.inetbanking.TestCases.BaseClass -INFO - Creating new Account Details Providing......
+2022-09-28 13:40:51,229 - com.inetbanking.TestCases.BaseClass -INFO - CreateNewAccount Test is passed
+2022-09-28 13:45:24,489 - com.inetbanking.TestCases.BaseClass -INFO - URL lanuched
+2022-09-28 13:45:26,188 - com.inetbanking.TestCases.BaseClass -INFO - Entered username
+2022-09-28 13:45:26,430 - com.inetbanking.TestCases.BaseClass -INFO - entered password
+2022-09-28 13:45:29,633 - com.inetbanking.TestCases.BaseClass -INFO - chicked sumitbtn
+2022-09-28 13:45:33,613 - com.inetbanking.TestCases.BaseClass -INFO - Creating new Account Details Providing......
+2022-09-28 13:45:37,480 - com.inetbanking.TestCases.BaseClass -INFO - CreateNewAccount Test is passed

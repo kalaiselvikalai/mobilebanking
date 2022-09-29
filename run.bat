@@ -1,2 +1,6 @@
-cd C:\Users\Admin\eclipse-workspace\inetbankingV1
+ 
 mvn clean install
+echo %DATE%
+echo %Time%
+echo "command executed succesfully!"
+exit 0

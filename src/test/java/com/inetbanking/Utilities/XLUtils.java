@@ -1,7 +1,5 @@
 
-
 package com.inetbanking.Utilities;
-
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -14,7 +12,7 @@ import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class XLUtils {
-	
+
 	public static FileInputStream fi;
 	public static FileOutputStream fo;
 	public static XSSFWorkbook wb;
@@ -22,69 +20,59 @@ public class XLUtils {
 	public static XSSFRow row;
 	public static XSSFCell cell;
 
-	
-	
-	public static int getRowCount(String xlfile,String xlsheet) throws IOException 
-	{
-		fi=new FileInputStream(xlfile);
-		wb=new XSSFWorkbook(fi);
-		ws=wb.getSheet(xlsheet);
-		int rowcount=ws.getLastRowNum();
+	public static int getRowCount(String xlfile, String xlsheet) throws IOException {
+		fi = new FileInputStream(xlfile);
+		wb = new XSSFWorkbook(fi);
+		ws = wb.getSheet(xlsheet);
+		int rowcount = ws.getLastRowNum();
 		wb.close();
 		fi.close();
-		return rowcount;		
+		return rowcount;
 	}
-	
-	
-	public static int getCellCount(String xlfile,String xlsheet,int rownum) throws IOException
-	{
-		fi=new FileInputStream(xlfile);
-		wb=new XSSFWorkbook(fi);
-		ws=wb.getSheet(xlsheet);
-		row=ws.getRow(rownum);
-		int cellcount=row.getLastCellNum();
+
+	public static int getCellCount(String xlfile, String xlsheet, int rownum) throws IOException {
+		fi = new FileInputStream(xlfile);
+		wb = new XSSFWorkbook(fi);
+		ws = wb.getSheet(xlsheet);
+		row = ws.getRow(rownum);
+		int cellcount = row.getLastCellNum();
 		wb.close();
 		fi.close();
 		return cellcount;
 	}
-	
-	
-	public static String getCellData(String xlfile,String xlsheet,int rownum,int colnum) throws IOException
-	{
-		fi=new FileInputStream(xlfile);
-		wb=new XSSFWorkbook(fi);
-		ws=wb.getSheet(xlsheet);
-		row=ws.getRow(rownum);
-		cell=row.getCell(colnum);
+
+	public static String getCellData(String xlfile, String xlsheet, int rownum, int colnum) throws IOException {
+		fi = new FileInputStream(xlfile);
+		wb = new XSSFWorkbook(fi);
+		ws = wb.getSheet(xlsheet);
+		row = ws.getRow(rownum);
+		cell = row.getCell(colnum);
 		String data;
-		try 
-		{
+		try {
 			DataFormatter formatter = new DataFormatter();
-            String cellData = formatter.formatCellValue(cell);
-            return cellData;
-		}
-		catch (Exception e) 
-		{
-			data="";
+			String cellData = formatter.formatCellValue(cell);
+			return cellData;
+		} catch (Exception e) {
+			data = "";
 		}
 		wb.close();
 		fi.close();
 		return data;
 	}
-	
-	public static void setCellData(String xlfile,String xlsheet,int rownum,int colnum,String data) throws IOException
-	{
-		fi=new FileInputStream(xlfile);
-		wb=new XSSFWorkbook(fi);
-		ws=wb.getSheet(xlsheet);
-		row=ws.getRow(rownum);
-		cell=row.createCell(colnum);
+
+	public static void setCellData(String xlfile, String xlsheet, int rownum, int colnum, String data)
+			throws IOException {
+		fi = new FileInputStream(xlfile);
+		wb = new XSSFWorkbook(fi);
+		ws = wb.getSheet(xlsheet);
+		row = ws.getRow(rownum);
+		cell = row.createCell(colnum);
 		cell.setCellValue(data);
-		fo=new FileOutputStream(xlfile);
-		wb.write(fo);		
+		fo = new FileOutputStream(xlfile);
+		wb.write(fo);
 		wb.close();
 		fi.close();
 		fo.close();
 	}
-	
+
 }
